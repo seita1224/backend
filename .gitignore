@@ -35,3 +35,4 @@ out/
 
 ### VSCode ###
 !.vscode/launch.json
+.vscode/
